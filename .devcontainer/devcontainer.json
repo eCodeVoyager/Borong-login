@@ -1,0 +1,12 @@
+{
+    "customizations": {
+      "codespaces": {
+        "repositories": {
+          "ehsan1111/Borong-login-page/": {
+            "permissions": "write-all"
+          }
+        }
+      }
+    }
+  }
+  
